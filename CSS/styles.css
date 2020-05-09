@@ -1,0 +1,147 @@
+body {
+  margin: 0;
+  text-align: center;
+
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Satisfy', cursive;
+  color: #005082;
+  font-size: 300%;
+}
+
+h2 {
+  font-family: 'Mukta', sans-serif;
+  color: #00a8cc;
+}
+
+h3 {
+  font-family: 'Mukta', sans-serif;
+  color: #00a8cc;
+
+}
+p{
+    font-family: 'Mukta', sans-serif;
+}
+
+hr{
+  border: dotted 6px grey;
+
+  border-bottom: none;
+  width:4%
+}
+
+
+.top {
+
+  margin: 0;
+  padding-top: 50px;
+  background-color: #ecfbfc;
+  padding-bottom:50px;
+}
+
+a{
+  color: grey;
+  text-decoration: none;
+}
+
+a:hover{
+  color: black;
+}
+
+.bio{
+  text-align: left;
+  width:30%;
+  margin:0 auto;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.pic-left{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.pic-right{
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+.pic{
+  width:50%;
+  text-align: center;
+}
+.contact-me{
+  padding:10px 0 70px;
+}
+.bottom{
+  background-color: #b2ebf2;
+  padding:40px 0 10px;
+}
+
+.footer-link{
+    color: #019ad2;
+  font-family: 'Mukta', sans-serif;
+  margin: 10px 20px;
+  padding-bottom: 40px;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #ecfbfc;
+}
+
+.myButton {
+	box-shadow: 0 1px 0 0 #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+	background-color:#33bdef;
+	border-radius:10px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 20px;
+	text-decoration:none;
+	text-shadow:0 -1px 0 #5b6178;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+	background-color:#019ad2;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.tag{
+  font-size: 75%;
+}
+
+.onlyskill{
+  text-align: left;
+  width:90%;
+  margin:0 auto;
+  column-count:3;
+}
+
+.onlyproject{
+  width: 50%;
+  margin:0 auto;
+  text-align: left;
+}
+
+.onlyexp{
+  width: 50%;
+  margin:0 auto;
+  text-align: left;
+}
