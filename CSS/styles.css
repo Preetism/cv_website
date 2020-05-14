@@ -129,10 +129,19 @@ a:hover{
 
 .onlyskill{
   text-align: left;
-  width:90%;
+  width:15%;
   margin:0 auto;
-  column-count:3;
+  /* column-count:3; */
 }
+
+.onlyskill_2{
+  text-align: left;
+  width:20%;
+  margin:0 auto;
+  /* column-count:3; */
+}
+
+
 
 .onlyproject{
   width: 50%;
